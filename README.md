@@ -136,9 +136,9 @@ https://www.oracle.com/database/sqldeveloper/
 
 ## Recursos adicionales
 ##### Guía en GitHub:
-[Oracle-Database-19c-on-Docker](http://https://github.com/shazforiot/Oracle-Database-19c-on-Docker/blob/main/Steps "Oracle-Database-19c-on-Docker")
+(http://https://github.com/shazforiot/Oracle-Database-19c-on-Docker/blob/main/Steps "Oracle-Database-19c-on-Docker")
 ##### Video tutorial:
-[Oracle Database on Docker](http://https://www.youtube.com/watch?v=xY0Y1tWm8D4 "YouTube")
+(http://https://www.youtube.com/watch?v=xY0Y1tWm8D4 "YouTube")
 
 ---
 
